@@ -1,7 +1,8 @@
 ### Hi there 👋
 
+![ezgif-3-c54a1cec35](https://user-images.githubusercontent.com/90173548/231066411-36e2262a-40ec-4a02-a15f-b74c66737240.png)
 
-https://user-images.githubusercontent.com/90173548/231065712-a3fe1869-520b-4166-bcad-6f33e97ce0b2.mp4
+
 
 
 
