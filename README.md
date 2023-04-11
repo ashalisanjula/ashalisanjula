@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+
+- 🔭 I’m currently working on HTML, CSS, JAVA, C
+- 🌱 I’m currently learning JavaScript
+
 <!--
 **ashalisanjula/ashalisanjula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
