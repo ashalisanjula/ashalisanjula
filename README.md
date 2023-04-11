@@ -1,5 +1,8 @@
 ### Hi there 👋
-![190127191-945c97b4-f2e8-47fe-b1da-ff678d31c0ed](https://user-images.githubusercontent.com/90173548/231064397-7a26d15c-24b6-4fa7-8e44-29efe81f20ca.gif)
+
+
+https://user-images.githubusercontent.com/90173548/231065712-a3fe1869-520b-4166-bcad-6f33e97ce0b2.mp4
+
 
 
 - 🔭 I’m currently working on HTML, CSS, JAVA, C
